@@ -1,4 +1,4 @@
-===Simple Music ===
+===Easy Music Widget ===
 Contributors: WittyBlogger
 Tags: music, mp3, audio, widget, sidebar, plugin
 Requires at least: 2.0.2
