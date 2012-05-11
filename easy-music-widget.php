@@ -13,7 +13,7 @@ register_activation_hook( __FILE__, array('Easy_Music_Widget', 'activate'));
 register_deactivation_hook( __FILE__, array('Easy_Music_Widget', 'deactivate'));
 class Easy_Music_Widget {
   function activate(){
-    $data = array('title' => '', 'url' => 'http://flash-mp3-player.net/medias/another_world.mp3', 'autoplay' => 'No', 'repeat' => 'Yes', 'credit' => 'No');
+    $data = array('title' => '', 'url' => 'http://flash-mp3-player.net/medias/another_world.mp3', 'autoplay' => 'No', 'repeat' => 'Yes', 'credit' => 'Yes');
     if ( ! get_option('easy_music_widget')){
       add_option('easy_music_widget' , $data);
     } else {
