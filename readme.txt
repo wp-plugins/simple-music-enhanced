@@ -31,7 +31,7 @@ Easily embed and play any MP3 in your sidebar. Push-button ease!
 
 1. Upload the folder `easy-music-widget` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Go to Appearance > Widgets and drag 'Simple Music' to your sidebar
+3. Go to Appearance > Widgets and drag 'Easy Music Widget' to your sidebar
 4. Update the settings in the widget: URL, autoplay, loop etc.
 
 = Support: =
