@@ -93,7 +93,7 @@ type="text" value="<?php echo $data['url']; ?>" /></label></p>
     <?php
 
 if ($data['credit'] == "Yes"){
-echo '<br />Created by <a href="http://wittydiary.com/">'.$theanchor.'</a>';} else {}
+echo '<br />Created by <a href="http://wittydiary.com/">'.$theanchor.'</a> & <a href="http://www.exerciseequipment-reviews.com/">exercise equipment</a>';} else {}
 
 echo $args['after_widget'];
   }
