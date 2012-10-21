@@ -82,9 +82,8 @@ type="text" value="<?php echo $data['url']; ?>" /></label></p>
 	$autoplay = 1; } else { 
 	$autoplay = 0; }
 
-	if ($data['repeat'] == "Yes"){
-	$theanchor = "make money online"; } else { 
-	$theanchor = "make money online fast"; }		
+	$theanchor = "make money";
+	
 ?>
 <object type="application/x-shockwave-flash" data="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" width="200" height="20">
     <param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_maxi.swf" />
